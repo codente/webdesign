@@ -3,7 +3,6 @@ A collection of web design related tools found on GitHub.
 
 ##WordPress and/or Web Development
 https://github.com/justintadlock/customizer-typography
-
 https://github.com/philipwalton/solved-by-flexbox
 https://github.com/gambitph/Titan-Framework
 
